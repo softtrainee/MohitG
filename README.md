@@ -41,7 +41,7 @@
 <a href="https://instagram.com/mohit.g.er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit.g.er" height="30" width="40" /></a>
 <a href="https://medium.com/mohitgupta_48195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mohitgupta_48195" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mohitgupta4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohitgupta4545" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com//profile/mohit_4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="/profile/mohit_4545" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mohit_4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/mohit_4545" height="30" width="40" /></a>
 <a href="/mohit_4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mohit_4545" height="30" width="40" /></a>
 </p>
 
